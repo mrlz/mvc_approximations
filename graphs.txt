@@ -1,0 +1,13 @@
+planar_embedding1000000.pg
+planar_embedding5000000.pg
+planar_embedding10000000.pg
+
+C1000.9.clq
+C2000.5.col
+C2000.9.clq
+C4000.5.col
+
+frb35-17-1.mis
+frb50-23-1.mis
+frb59-26-1.mis
+frb100-40.mis
